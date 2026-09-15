@@ -1,3 +1,5 @@
 1st content is written by vamsi ram
+<<<<<<< HEAD
 2nd content is edited in GitHub
 Udername and passowrd
+updated by using nano command 
